@@ -1,6 +1,6 @@
 # CROCO | Non-hydrostatic coastal wave and sediment modelling
 
-![MATLAB](https://img.shields.io/badge/MATLAB-processing-orange) ![CROCO](https://img.shields.io/badge/CROCO-non--hydrostatic-blue) ![NetCDF](https://img.shields.io/badge/NetCDF-model%20I%2FO-4c78a8) ![MPI](https://img.shields.io/badge/MPI-parallel%20simulations-6a5acd) ![Shell](https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnubash&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-R2019b-orange) ![CROCO](https://img.shields.io/badge/CROCO-2.1.3-blue) ![CROCO_TOOLS](https://img.shields.io/badge/CROCO_TOOLS-2.1.1-blue) ![NetCDF](https://img.shields.io/badge/NetCDF-model%20I%2FO-4c78a8) ![MPI](https://img.shields.io/badge/MPI-parallel%20simulations-6a5acd) ![Shell](https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnubash&logoColor=white)
 
 ## Overview
 
@@ -37,7 +37,7 @@ I had several hydrodynamic simulations and few additional sediment-enabled simul
 
 Scripts currently contain null paths and experiment-specific parameters. **Edit these before running.** Large input/output datasets and third-party model source code are not included.
 
-## Disclaimer
+### Disclaimer
 
 This repository contains selected scripts and documentation of my contributions, not a standalone, fully reproducible distribution of the complete industrial modelling setup. Some scripts were adapted from existing collaborator workflows, as indicated in their source comments. Where applicable, scripts also note AI-assisted coding contributions that were reviewed by the author. The project was conducted in collaboration with WWS; inclusion of any proprietary configuration or input data is subject to permission.
 
