@@ -17,7 +17,7 @@ I had several hydrodynamic simulations and few additional sediment-enabled simul
 | --- | --- |
 | [`pre_process/`](pre_process/) | Bathymetry exploration and CROCO grid generation. |
 | [`post_process/`](post_process/) | NetCDF extraction, time-averaged diagnostics, wetting/drying statistics and comparison plots. |
-| [`test_case/Swash/`](test_case/Swash/) | Reference benchmark figures and notes on CROCO/SWASH test-case interpretation. |
+| [`test_case/`](test_case/) | Reference benchmark figures and notes on CROCO/SWASH test-cases interpretation. |
 |[`model_configuration/`](model_configuration/) | Selected CROCO configuration files for hydrodynamic and sediment-enabled experiments, subject to sharing permissions. |
 
 ## Workflow
