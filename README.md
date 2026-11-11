@@ -21,7 +21,7 @@ I'm keeping some of that work here to make it easier to find and share, and to g
 | **[CROCO](CROCO/)** | Scripts and configuration files for wave-resolving coastal hydrodynamics and sediment transport modelling, with [CROCO](https://gitlab.inria.fr/croco-ocean) including model setup, pre-processing, and post-processing. |
 | **[ROMS](ROMS/)** | Scripts and tools for working with the [Regional Ocean Modeling System (ROMS)](https://github.com/myroms/roms/tree/main). |
 | **[ADCP](ADCP/)** | Scripts for processing and analysing Acoustic Doppler Current Profiler (ADCP) measurements. |
-| **[Baltic SST notebook](baltic_sst_yearly_comparison.ipynb)** | A standalone notebook for comparing yearly sea surface temperature data in the Baltic Sea. |
+| **[global_data](global_data/)** | Scripts for accessing and analyzing global products such as [GLORYS](https://data.marine.copernicus.eu/product/GLOBAL_MULTIYEAR_PHY_001_030/description) and [HYCOM](https://www.hycom.org/). |
 
 The project folders have their own READMEs with more detail about the scripts, their context, and how they were used.
 
