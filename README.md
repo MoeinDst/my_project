@@ -18,8 +18,8 @@ I'm keeping some of that work here to make it easier to find and share, and to g
 
 | Directory / file | What's in it |
 | --- | --- |
-| **[CROCO](CROCO/)** | Scripts and configuration files for coastal hydrodynamic and sediment transport modelling, including model setup, pre-processing, and post-processing. |
-| **[ROMS](ROMS/)** | Scripts and tools for working with the Regional Ocean Modeling System (ROMS). |
+| **[CROCO](CROCO/)** | Scripts and configuration files for wave-resolving coastal hydrodynamics and sediment transport modelling, with [CROCO](https://gitlab.inria.fr/croco-ocean) including model setup, pre-processing, and post-processing. |
+| **[ROMS](ROMS/)** | Scripts and tools for working with the [Regional Ocean Modeling System (ROMS)](https://github.com/myroms/roms/tree/main). |
 | **[ADCP](ADCP/)** | Scripts for processing and analysing Acoustic Doppler Current Profiler (ADCP) measurements. |
 | **[Baltic SST notebook](baltic_sst_yearly_comparison.ipynb)** | A standalone notebook for comparing yearly sea surface temperature data in the Baltic Sea. |
 
