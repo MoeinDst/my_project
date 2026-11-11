@@ -1,9 +1,10 @@
 # Selected Projects & Scripts
 
 ![ROMS](https://img.shields.io/badge/ROMS-ocean%20modelling-1976D2)
-![CROCO](https://img.shields.io/badge/CROCO-coastal%20modelling-00897B)
+![CROCO](https://img.shields.io/badge/CROCO-2.1.3-00897B)
 ![MATLAB R2019](https://img.shields.io/badge/MATLAB-R2019-orange)
 ![Python](https://img.shields.io/badge/python-3.11+-blue?logo=python)
+![Shell](https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnubash&logoColor=white)
 
 ## About this repository
 
