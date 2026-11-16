@@ -22,6 +22,7 @@ I'm keeping some of that work here to make it easier to find and share, and to g
 | **[ROMS](ROMS/)** | Scripts and tools for working with the [Regional Ocean Modeling System (ROMS)](https://github.com/myroms/roms/tree/main). |
 | **[ADCP](ADCP/)** | Scripts for processing and analysing Acoustic Doppler Current Profiler (ADCP) measurements. |
 | **[global_data](global_data/)** | Scripts for accessing and analyzing global products such as [GLORYS](https://data.marine.copernicus.eu/product/GLOBAL_MULTIYEAR_PHY_001_030/description) and [HYCOM](https://www.hycom.org/). |
+| **[metocean_data_analysis](metocean_data_analysis/)** | Selected notebooks for processing metocean observations, converting text-based datasets to NetCDF, and examining data availability during storm events. |
 
 The project folders have their own READMEs with more detail about the scripts, their context, and how they were used.
 
