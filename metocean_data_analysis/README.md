@@ -11,6 +11,7 @@ As the initial step I decided to convert the original text-based datasets into *
 This repository focuses on sharing selected scripts, notebooks, and analysis workflows rather than distributing the underlying observational datasets or confidential project information.
 
 ### Repository contents
+---
 
 | File | Description |
 | --- | --- |
@@ -20,6 +21,7 @@ This repository focuses on sharing selected scripts, notebooks, and analysis wor
 | `list_and_shutdown_all_clusters.ipynb` | Utility notebook for managing Dask Gateway clusters, adopted from rsignell. |
 
 ### Workflow Summary
+---
 
 1. Inspect the original text-based datasets and their instrument-specific formats.
 2. Parse observational records and extract available metadata into Xarray datasets.
@@ -35,6 +37,7 @@ This repository focuses on sharing selected scripts, notebooks, and analysis wor
 - Original text-based metocean datasets in the expected instrument-specific formats.
 
 #### Note on data conventions
+---
 
 The conversion to NetCDF was primarily intended to improve data accessibility and facilitate subsequent analysis, rather than to produce fully standardized datasets.
 
@@ -47,6 +50,7 @@ Instead, descriptive and consistent variable names were adopted, retaining their
 Scripts and notebooks contain project-specific paths and parameters. These must be adjusted before running. The original observational datasets are not included.
 
 ### Disclaimer
+---
 
 This directory contains selected scripts and notebooks documenting my contributions, not a standalone, fully reproducible distribution of the complete metocean analysis project. The work was conducted in collaboration with **WWS**, with my contributions focused on observational data processing, analysis, and storm-event identification rather than numerical modelling.
 
