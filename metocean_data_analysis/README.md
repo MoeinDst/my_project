@@ -17,7 +17,7 @@ This repository focuses on sharing selected scripts, notebooks, and analysis wor
 | --- | --- |
 | `eni_data_read_funcs.py` | Instrument-specific parsers for reading text files, extracting metadata, and creating Xarray datasets. |
 | `data_csv2netcdf.ipynb` | Conversion of original text-based datasets into NetCDF, including parallel processing with Dask. |
-| `selective_stations_data_coverage_GitVersion.ipynb` | Examination and visualization of data availability across selected monitoring stations during storm events. |
+| `selective_stations_data_coverage.ipynb` | Examination and visualization of data availability across selected monitoring stations during storm events. |
 | `list_and_shutdown_all_clusters.ipynb` | Utility notebook for managing Dask Gateway clusters, adopted from rsignell. |
 
 ### Workflow Summary
